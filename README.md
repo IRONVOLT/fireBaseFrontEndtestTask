@@ -1,7 +1,7 @@
 # fireBaseFrontEndtestTask
 
-In file:
+In file
 
-src/components/headerComponents/loginForm/logiInForm.js
+logiInForm.js
 
 You can find my realisation working with Fire base DB.
